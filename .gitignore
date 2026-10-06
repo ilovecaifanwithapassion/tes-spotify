@@ -1,0 +1,15 @@
+# Large binary installers & executables
+Installer/
+*.exe
+*.msi
+*.zip
+*.tar.gz
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
